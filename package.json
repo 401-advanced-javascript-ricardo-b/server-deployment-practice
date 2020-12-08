@@ -4,14 +4,15 @@
   "description": "## Project: Serer Deployment Practice",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest -- coverage",
+    "start": "nodemon"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/401-advanced-javascript-ricardo-b/server-deployment-practice.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ricardo Barcenas",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/401-advanced-javascript-ricardo-b/server-deployment-practice/issues"
@@ -20,6 +21,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "jest": "^26.6.3"
+    "jest": "^26.6.3",
+    "supertest": "^6.0.1"
   }
 }
