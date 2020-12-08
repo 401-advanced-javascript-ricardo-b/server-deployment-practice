@@ -6,9 +6,9 @@
 
 ### Links and Resources
 
-- [ci/cd]() (GitHub Actions) (empty atm)
+- [ci/cd](https://github.com/401-advanced-javascript-ricardo-b/server-deployment-practice/actions) (GitHub Actions)
 - [Heroku Dev Deployment](https://ricardob-server-deploy-dev.herokuapp.com/)
-- [Heroku Production Deployment]() (empty atm)
+- [Heroku Production Deployment](https://ricardob-server-deploy-prod.herokuapp.com/)
 
 ### Setup
 
