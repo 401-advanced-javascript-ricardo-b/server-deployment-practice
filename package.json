@@ -1,10 +1,10 @@
 {
   "name": "server-deployment-practice",
   "version": "1.0.0",
-  "description": "## Project: Serer Deployment Practice",
+  "description": "Project: Serer Deployment Practice",
   "main": "index.js",
   "scripts": {
-    "test": "jest -- coverage",
+    "test": "jest --coverage",
     "start": "nodemon"
   },
   "repository": {
